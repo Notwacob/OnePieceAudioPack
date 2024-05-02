@@ -1,0 +1,11 @@
+{
+    "name": "We_Are-Instrumental",
+    "author": "Notwacob",
+    "version": "v1.0",
+    "manifest_version": 2,
+    "music": true,
+    "ignore": [
+        "intro_music.mp3"
+    ],
+    "mappings": {}
+  }
